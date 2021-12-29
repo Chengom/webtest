@@ -1,32 +1,55 @@
 ## 竹林中學 國一仁班群日誌
 
 這邊寫著國一仁班群的大大小小事,記錄著很多人的八卦(喔沒
+
 作者:Chen_gom
 
 ### 班內(群)人員
 
 王靖涵
+
 李明璐
+
 林羽彤
+
 梁舜媛
+
 梁瑄芸
+
 陳小宥
+
 陳昊廷
+
 陳冠輔
+
 陳柏妤
+
 黃晧宸
+
 楊沁
+
 劉冠佑
+
 黎睿致
+
 蕭蓉忻
+
 蘇庭湘
+
 Æß Œč Qã
+
 Bryan Lin
+
 Chloe Yu
+
 Ian Teng
+
 Ruby
+
 Sandy Lee
+
 Si Chien
+
 
 ```markdown
 Syntax highlighted code block
