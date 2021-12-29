@@ -24,7 +24,7 @@
 
 陳柏妤
 
-黃晧宸
+Chen_gom
 
 楊沁
 
@@ -50,6 +50,15 @@ Sandy Lee
 
 Si Chien
 
+### 班級日誌
+
+#### 班群篇
+
+日期:12/27
+
+由於蘇媽媽突如其來的出現,並突如其來的消失,以下將講解過程=w=(以個人觀點撰寫)
+
+12/27 在**IG[https://www.instagram.com/clsh_gossip/](竹林八卦版)**上有人發關於蘇xx怎麼樣怎麼樣的事(什麼事在這不說明),剛好當天蘇xx手機被沒收,並由他媽媽查看當天**IG和messenger**,並由不知道打哪來的*神邏輯*私訊我要求我把八卦版的訊息刪了(聽說好像也有別人),不過他好像有學過**通靈**,在班群打上(由作者記憶中):我是蘇媽媽 請將有關於蘇xx的言論刪除,另外請將此群**刪除**和"**轉載**"。 令班群的人充滿????????????????????的感覺。
 
 ```markdown
 Syntax highlighted code block
@@ -68,13 +77,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chengom/webtest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
