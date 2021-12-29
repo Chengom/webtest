@@ -60,20 +60,4 @@ Si Chien
 
 12/27 在**IG[竹林八卦版](https://www.instagram.com/clsh_gossip/)**上有人發關於蘇xx怎麼樣怎麼樣的事(什麼事在這不說明),剛好當天蘇xx手機被沒收,並由他媽媽查看當天**IG和messenger**,並由不知道打哪來的*神邏輯*私訊我要求我把八卦版的訊息刪了(聽說好像也有別人),不過他好像有學過**通靈**,在班群打上(由作者記憶中):我是蘇媽媽 請將有關於蘇xx的言論刪除,另外請將此群**刪除**和"**轉載**"。 令班群的人充滿????????????????????的感覺。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+最後更新日期:2021/12/29 11:15
